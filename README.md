@@ -8,7 +8,7 @@ With the help of this powerful report we can help the management team in trackin
 
 ## Following steps have been followed in creating this Report :-
 
-1st STEP- First of all, for the beginning all we have is a folder of raw CSV files, which contain information about transaction and return records, products, customers, and sales territories.
+1st STEP- First of all, for the beginning all we have is a folder of raw [CSV files](https://github.com/Ajay8741/AdvetntureWork-Bike-Sales-Analysis/blob/main/AdventureWorks%20Raw%20Data.zip), which contain information about transaction and return records, products, customers, and sales territories.
 
 2nd STEP- I have connected and transform that raw data and build a relational data model.
 
